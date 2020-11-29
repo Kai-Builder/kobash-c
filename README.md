@@ -1,3 +1,5 @@
+Current Development Can be found [here](https://github.com)
+
 # KoBash C Edition
 
 ## Comparison
